@@ -255,7 +255,7 @@
   position: absolute;
   height: 40px;
   right: 0px;
-  top: 95%;
+  top: 70%;
   width: 100px;
 
   font-family: Lora;
@@ -426,7 +426,7 @@
     height: 40px;
     right: 0px;
     left: 85%;
-    top: 95%;
+    top: 85%;
     width: 20px;
   
     font-family: Lora;
@@ -769,7 +769,7 @@
     position: absolute;
     height: 40px;
     right: 0px;
-    top: 95%;
+    top: 70%;
     width: 100px;
   
     font-family: Lora;
