@@ -16,13 +16,13 @@ class App extends Component {
           <div class="mdl-mini-footer__middle-section">
             <ul class="mdl-mini-footer__link-list">
               <li>
-              <a class="mdl-navigation__link" style={{color: 'lightgrey'}}>By Haeim Lee</a>
+              <p class="mdl-navigation__link" style={{color: 'lightgrey'}}>By Haeim Lee</p>
               </li>
               <li>
               <a class="mdl-navigation__link" href="#projects">Projects</a>
               </li>
               <li>
-              <a class="mdl-navigation__link" href={process.env.PUBLIC_URL + resume} target="_blank">Resume</a>
+              <a class="mdl-navigation__link" href={process.env.PUBLIC_URL + resume} rel="noopener noreferrer" target="_blank">Resume</a>
               </li>
               <li>
               <a class="mdl-navigation__link" href="#home">Back to Top</a>

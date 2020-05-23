@@ -37,9 +37,9 @@ class Projects extends Component {
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Mauris sagittis pellentesque lacus eleifend lacinia...
               </div>
-              <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+              <p class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
                 Get Started
-              </a>
+              </p>
               <div class="mdl-card__menu">
               <span class="mdl-chip mdl-chip--contact">
                 <span class="mdl-chip__contact mdl-color--red mdl-color-text--white">W</span>
@@ -60,9 +60,9 @@ class Projects extends Component {
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Mauris sagittis pellentesque lacus eleifend lacinia...
               </div>
-              <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+              <p class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
                 Get Started
-              </a>
+              </p>
               <div class="mdl-card__menu">
               <span class="mdl-chip mdl-chip--contact">
                 <span class="mdl-chip__contact mdl-color--red mdl-color-text--white">W</span>
@@ -83,9 +83,9 @@ class Projects extends Component {
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Mauris sagittis pellentesque lacus eleifend lacinia...
               </div>
-              <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+              <p class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
                 Get Started
-              </a>
+              </p>
               <div class="mdl-card__menu">
               <span class="mdl-chip mdl-chip--contact">
               <span class="mdl-chip__contact mdl-color--green mdl-color-text--white">P</span>
@@ -106,9 +106,9 @@ class Projects extends Component {
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Mauris sagittis pellentesque lacus eleifend lacinia...
               </div>
-              <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+              <p class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
                 Get Started
-              </a>
+              </p>
               <div class="mdl-card__menu">
               <span class="mdl-chip mdl-chip--contact">
                 <span class="mdl-chip__contact mdl-color--red mdl-color-text--white">W</span>
@@ -129,9 +129,9 @@ class Projects extends Component {
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Mauris sagittis pellentesque lacus eleifend lacinia...
               </div>
-              <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+              <p class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
                 Get Started
-              </a>
+              </p>
               <div class="mdl-card__menu">
               <span class="mdl-chip mdl-chip--contact">
                 <span class="mdl-chip__contact mdl-color--red mdl-color-text--white">W</span>
@@ -152,9 +152,9 @@ class Projects extends Component {
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Mauris sagittis pellentesque lacus eleifend lacinia...
               </div>
-              <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+              <p class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
                 Get Started
-              </a>
+              </p>
               <div class="mdl-card__menu">
               <span class="mdl-chip mdl-chip--contact">
                 <span class="mdl-chip__contact mdl-color--red mdl-color-text--white">W</span>
