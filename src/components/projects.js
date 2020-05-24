@@ -86,7 +86,7 @@ class Projects extends Component {
                 Users can use this site to track their purchases and donate a percentage amount towards a STEM program of their choice.
                 <br/>
                 <br/>
-                Built with css, expressjs, html, javascript, nodejs, python, sketch, swift and xcode.
+                Built with css, expressjs, html, javascript, nodejs, python, sketch, heroku, swift and xcode.
               </div>
               <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="https://github.com/leehaei/WiCHacks-2020" rel="noopener noreferrer" target="_blank">
                 GitHub
@@ -115,7 +115,7 @@ class Projects extends Component {
                 The goal is to peak students' interest in their financial futures and help them make smart financial decisions.
                 <br/>
                 <br/>
-                Built with css, expressjs, html, javascript, nodejs, mongodb, mongoose and plotly.
+                Built with css, expressjs, html, javascript, nodejs, mongodb, mongoose, heroku and plotly.
               </div>
               <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="https://github.com/leehaei/HTV4" rel="noopener noreferrer" target="_blank">
                 GitHub
