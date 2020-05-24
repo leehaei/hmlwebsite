@@ -73,10 +73,52 @@
   color: darksalmon;
 }
 .demo-card-wide > .mdl-card__title {
+
+}
+#igm {
   color: #000000;
   height: 250px;
-  background: url('./images/Frame\ 4.svg') center / cover;
+  background: url('./images/igm.jpeg') center ;
 }
+
+#statuscast-slack {
+
+}
+
+#unicost {
+  color: #000000;
+  height: 250px;
+  background: url('./images/unicost.png') center / cover;
+}
+
+#wichacks {
+  color: #000000;
+  height: 250px;
+  background: url('./images/WicHacks.png') center / cover;
+}
+
+#htn2 {
+  color: #000000;
+  height: 250px;
+  background: url('./images/htn2.jpg') center / cover;
+}
+
+#tribalscale {
+  color: #000000;
+  height: 250px;
+  background: url('./images/tribalscale.gif') center;
+}
+
+#tshackathon {
+
+}
+
+#moh {
+  color: #000000;
+  height: 250px;
+  background: url('./images/moh.png') center ;
+}
+
 .demo-card-wide > .mdl-card__menu {
   color: #fff;
 }
