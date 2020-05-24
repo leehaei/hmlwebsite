@@ -75,48 +75,90 @@
 .demo-card-wide > .mdl-card__title {
 
 }
+
+.demo-card-wide > .mdl-card__title-text {
+  padding-left: 10px;
+  padding-right: 10px;
+  justify-content: right;
+}
+
+.demo-card-wide > .mdl-card__subtitle-text {
+  padding-left: 10px;
+  padding-right: 10px;
+  justify-content: right;
+}
+
+
 #igm {
   color: #000000;
   height: 250px;
-  background: url('./images/igm.jpeg') center ;
+  background: url('./images/igm.jpeg') center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
 }
 
 #statuscast-slack {
-
+  color: #000000;
+  height: 250px;
+  background: url('./images/statuscast.png') center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
 }
 
 #unicost {
   color: #000000;
   height: 250px;
-  background: url('./images/unicost.png') center / cover;
+  background: url('./images/unicost.png') center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
 }
 
 #wichacks {
   color: #000000;
   height: 250px;
-  background: url('./images/WicHacks.png') center / cover;
+  background: url('./images/WicHacks.png') center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
 }
 
 #htn2 {
   color: #000000;
   height: 250px;
-  background: url('./images/htn2.jpg') center / cover;
+  background: url('./images/htn2.jpg') center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
 }
 
 #tribalscale {
   color: #000000;
   height: 250px;
   background: url('./images/tribalscale.gif') center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
 }
 
 #tshackathon {
-
+  color: #000000;
+  height: 250px;
+  background: url('./images/stopover.gif') center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
 }
 
 #moh {
   color: #000000;
   height: 250px;
   background: url('./images/moh.png') center ;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
 }
 
 .demo-card-wide > .mdl-card__menu {

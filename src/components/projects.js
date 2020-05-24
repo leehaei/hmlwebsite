@@ -31,8 +31,8 @@ class Projects extends Component {
         <div class="card">
             <div class="demo-card-wide mdl-card mdl-shadow--2dp">
               <div class="mdl-card__title" id="igm"></div>
-              <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover'}}>DevOps Co-op </h2>
-              <h2 class="mdl-card__title-text" style={{color: 'Grey', backgroundSize: 'cover'}}> at IGM Financial </h2>
+              <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover', textAlign: 'right'}}>DevOps Co-op </h2>
+              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at IGM Financial </h2>
               <div class="mdl-card__supporting-text">
               Text
               <br/>
@@ -53,8 +53,8 @@ class Projects extends Component {
         <div class="card">
             <div class="demo-card-wide mdl-card mdl-shadow--2dp">
             <div class="mdl-card__title" id="statuscast-slack"></div>
-              <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover'}}> StatusCast and Slack Integration </h2>
-              <h2 class="mdl-card__title-text" style={{color: 'Grey', backgroundSize: 'cover'}}> at IGM Financial</h2>
+              <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover', textAlign: 'right'}}> StatusCast and Slack Integration </h2>
+              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at IGM Financial</h2>
               <div class="mdl-card__supporting-text">
                 Created a StatusCast and Slack Integration to allow teams to create StatusCast incidents through Slack forms.
                 Incidents created through the integration are stored to later allow users to resolve or comment on the indcident through slack.
@@ -79,8 +79,8 @@ class Projects extends Component {
         <div class="card">
             <div class="demo-card-wide mdl-card mdl-shadow--2dp">
             <div class="mdl-card__title" id="wichacks"></div>
-              <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover'}}>Women in Computing Hackathon </h2>
-              <h2 class="mdl-card__title-text" style={{color: 'Grey', backgroundSize: 'cover'}}> at Rochester Institute of Technology</h2>
+              <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover', textAlign: 'right'}}>Women in Computing Hackathon </h2>
+              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at Rochester Institute of Technology</h2>
               <div class="mdl-card__supporting-text">
                 Created a Nodejs webpage and iOS application using a Wegmans API where users are able to donate towards women and gender minorities in STEM.
                 Users can use this site to track their purchases and donate a percentage amount towards a STEM program of their choice.
@@ -108,8 +108,8 @@ class Projects extends Component {
         <div class="card">
             <div class="demo-card-wide mdl-card mdl-shadow--2dp">
             <div class="mdl-card__title" id="unicost"></div>
-              <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover'}}> Hack the Valley 4 </h2>
-              <h2 class="mdl-card__title-text" style={{color: 'Grey', backgroundSize: 'cover'}}> at University of Toronto</h2>
+              <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover', textAlign: 'right'}}> Hack the Valley 4 </h2>
+              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at University of Toronto</h2>
               <div class="mdl-card__supporting-text">
                 Unicost is a website for students to be able to graph their debts and expenses to visually see how their short term actions affect them in the long term.
                 The goal is to peak students' interest in their financial futures and help them make smart financial decisions.
@@ -137,10 +137,10 @@ class Projects extends Component {
         <div class="card">
             <div class="demo-card-wide mdl-card mdl-shadow--2dp">
             <div class="mdl-card__title" id="htn2"></div>
-              <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover'}}>Hack the North </h2>
-              <h2 class="mdl-card__title-text" style={{color: 'Grey', backgroundSize: 'cover'}}> at University of Waterloo</h2>
+              <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover', textAlign: 'right'}}>Hack the North </h2>
+              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at University of Waterloo</h2>
               <div class="mdl-card__supporting-text">
-                Created a 2D game, where you are a knight who was ordered by the king to find the person who has started the plague.
+                'Town of the Plagued' is a 2D game, where you, a knight is ordered by the king to find the person who has started the plague.
                 You have to pick up evidence around town to force the truth out of the townspeople who often lie about their whereabouts
                 <br/>
                 <br/>
@@ -166,15 +166,15 @@ class Projects extends Component {
         <div class="card">
             <div class="demo-card-wide mdl-card mdl-shadow--2dp">
               <div class="mdl-card__title" id="tribalscale"></div>
-              <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover'}}>Agile Software Test Engineer Co-op </h2>
-              <h2 class="mdl-card__title-text" style={{color: 'Grey', backgroundSize: 'cover'}}> at TribalScale </h2>
+              <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover', textAlign: 'right'}}>Agile Software Test Engineer Co-op </h2>
+              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at TribalScale </h2>
               <div class="mdl-card__supporting-text">
-              Effectively automate testing android apps using Appium and Selenium. 
+              Effectively automated testing android apps using Appium and Selenium. 
               Tested applications including android apps, iOS apps and webpages to ensure all business requirements are met.
               Conducted multiple levels of testing including acceptance testing, smoke testing, regression testing, exploratory testing, automation tests and UI testing.
               <br/>
               <br/>
-                Experience with Appium, Selenium, Pivotal Tracker, .
+                Experience with appium, selenium, pivotal tracker, application testing, slack API, java, javascript.
               </div>
               <div class="mdl-card__menu">
               <span class="mdl-chip mdl-chip--contact">
@@ -190,15 +190,17 @@ class Projects extends Component {
         <div class="card">
             <div class="demo-card-wide mdl-card mdl-shadow--2dp">
             <div class="mdl-card__title" id="tshackathon"></div>
-              <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover'}}> TribalScale Hackathon </h2>
-              <h2 class="mdl-card__title-text" style={{color: 'Grey', backgroundSize: 'cover'}}> at TribalScale</h2>
+              <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover', textAlign: 'right'}}> TribalScale Hackathon </h2>
+              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at TribalScale</h2>
               <div class="mdl-card__supporting-text">
-                  Text
+                  Stopover is an android application creating during TribalScale's company wide Hackathon.
+                  The application is to be used during flight stopovers for users to be able to search for nearby tourist attractions.
+                  By using dialogflow, the application is able to decipher the user's searches and communicate with the user in a conversational manner.
                 <br/>
                 <br/>
-                Built with Dialogflow.
+                Built with dialogflow, principle, adobe after effects, lottie and android studio.
               </div>
-              <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="hhttps://github.com/leehaei/statuscast-slack-integration" rel="noopener noreferrer" target="_blank">
+              <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="https://github.com/leehaei/TSHackathon2019" rel="noopener noreferrer" target="_blank">
                 GitHub
               </a>
               <div class="mdl-card__menu">
@@ -215,8 +217,8 @@ class Projects extends Component {
         <div class="card">
             <div class="demo-card-wide mdl-card mdl-shadow--2dp">
               <div class="mdl-card__title" id="moh"></div>
-              <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover'}}>Software Engineer Co-op </h2>
-              <h2 class="mdl-card__title-text" style={{color: 'Grey', backgroundSize: 'cover'}}> at Ontario Ministry of Health & Long-Term Care</h2>
+              <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover', textAlign: 'right'}}>Software Engineer Co-op </h2>
+              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at Ontario Ministry of Health & Long-Term Care</h2>
               <div class="mdl-card__supporting-text">
               Automated database statistics using ELK for development and production.
               Created statistical reports for management and operations team.
@@ -225,7 +227,7 @@ class Projects extends Component {
               Presented and organized meetings for project development
               <br/>
               <br/>
-                Experience with Linux, Elasticsearch, Logstash, Kibana, Filebeat, SQL Developer, IBM Cognos Report Studio, Microsoft Exel, Microsoft Powerpoint, Angular 6.
+                Experience with linux, elasticsearch, logstash, kibana, filebeat, SQL developer, IBM cognos report studio, excel, powerpoint and angular 6.
               </div>
               <div class="mdl-card__menu">
               <span class="mdl-chip mdl-chip--contact">
