@@ -32,7 +32,7 @@ class Projects extends Component {
             <div class="demo-card-wide mdl-card mdl-shadow--2dp">
               <div class="mdl-card__title" id="igm"></div>
               <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover', textAlign: 'right'}}>DevOps Co-op </h2>
-              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at IGM Financial </h2>
+              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at IGM Financial, 2020</h2>
               <div class="mdl-card__supporting-text">
               Text
               <br/>
@@ -54,7 +54,7 @@ class Projects extends Component {
             <div class="demo-card-wide mdl-card mdl-shadow--2dp">
             <div class="mdl-card__title" id="statuscast-slack"></div>
               <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover', textAlign: 'right'}}> StatusCast and Slack Integration </h2>
-              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at IGM Financial</h2>
+              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at IGM Financial, 2020</h2>
               <div class="mdl-card__supporting-text">
                 Created a StatusCast and Slack Integration to allow teams to create StatusCast incidents through Slack forms.
                 Incidents created through the integration are stored to later allow users to resolve or comment on the indcident through slack.
@@ -80,7 +80,7 @@ class Projects extends Component {
             <div class="demo-card-wide mdl-card mdl-shadow--2dp">
             <div class="mdl-card__title" id="wichacks"></div>
               <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover', textAlign: 'right'}}>Women in Computing Hackathon </h2>
-              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at Rochester Institute of Technology</h2>
+              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at Rochester Institute of Technology, 2020</h2>
               <div class="mdl-card__supporting-text">
                 Created a Nodejs webpage and iOS application using a Wegmans API where users are able to donate towards women and gender minorities in STEM.
                 Users can use this site to track their purchases and donate a percentage amount towards a STEM program of their choice.
@@ -109,7 +109,7 @@ class Projects extends Component {
             <div class="demo-card-wide mdl-card mdl-shadow--2dp">
             <div class="mdl-card__title" id="unicost"></div>
               <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover', textAlign: 'right'}}> Hack the Valley 4 </h2>
-              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at University of Toronto</h2>
+              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at University of Toronto, 2020</h2>
               <div class="mdl-card__supporting-text">
                 Unicost is a website for students to be able to graph their debts and expenses to visually see how their short term actions affect them in the long term.
                 The goal is to peak students' interest in their financial futures and help them make smart financial decisions.
@@ -138,7 +138,7 @@ class Projects extends Component {
             <div class="demo-card-wide mdl-card mdl-shadow--2dp">
             <div class="mdl-card__title" id="htn2"></div>
               <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover', textAlign: 'right'}}>Hack the North </h2>
-              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at University of Waterloo</h2>
+              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at University of Waterloo, 2019</h2>
               <div class="mdl-card__supporting-text">
                 'Town of the Plagued' is a 2D game, where you, a knight is ordered by the king to find the person who has started the plague.
                 You have to pick up evidence around town to force the truth out of the townspeople who often lie about their whereabouts
@@ -167,7 +167,7 @@ class Projects extends Component {
             <div class="demo-card-wide mdl-card mdl-shadow--2dp">
               <div class="mdl-card__title" id="tribalscale"></div>
               <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover', textAlign: 'right'}}>Agile Software Test Engineer Co-op </h2>
-              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at TribalScale </h2>
+              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at TribalScale, 2019</h2>
               <div class="mdl-card__supporting-text">
               Effectively automated testing android apps using Appium and Selenium. 
               Tested applications including android apps, iOS apps and webpages to ensure all business requirements are met.
@@ -191,7 +191,7 @@ class Projects extends Component {
             <div class="demo-card-wide mdl-card mdl-shadow--2dp">
             <div class="mdl-card__title" id="tshackathon"></div>
               <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover', textAlign: 'right'}}> TribalScale Hackathon </h2>
-              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at TribalScale</h2>
+              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at TribalScale, 2019</h2>
               <div class="mdl-card__supporting-text">
                   Stopover is an android application creating during TribalScale's company wide Hackathon.
                   The application is to be used during flight stopovers for users to be able to search for nearby tourist attractions.
@@ -218,7 +218,7 @@ class Projects extends Component {
             <div class="demo-card-wide mdl-card mdl-shadow--2dp">
               <div class="mdl-card__title" id="moh"></div>
               <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover', textAlign: 'right'}}>Software Engineer Co-op </h2>
-              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at Ontario Ministry of Health & Long-Term Care</h2>
+              <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at Ontario Ministry of Health & Long-Term Care, 2018</h2>
               <div class="mdl-card__supporting-text">
               Automated database statistics using ELK for development and production.
               Created statistical reports for management and operations team.
