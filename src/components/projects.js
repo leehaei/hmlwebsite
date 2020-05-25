@@ -34,10 +34,13 @@ class Projects extends Component {
               <h2 class="mdl-card__title-text" style={{color: 'Black', backgroundSize: 'cover', textAlign: 'right'}}>DevOps Co-op </h2>
               <h2 class="mdl-card__subtitle-text" style={{color: 'Grey', backgroundSize: 'cover', textAlign: 'right'}}> at IGM Financial, 2020</h2>
               <div class="mdl-card__supporting-text">
-              Text
+                 Created a static webpage to choose between three monitoring tools Site24x7, Pingdom and Uptrends.
+                 Tested real user monitoring, synthetic monitoring and load testing.
+                 Carried out software tooling requests as a Jira, Jenkins, Bitbucket and Confluence administrator.
+                 Used and documented version control tools (AppDynamics and Dynatrace) and continuous integration tools (GitLab, AzureDevOps, CircleCI, Travis and Concourse).
               <br/>
               <br/>
-                Experience with .
+                Experience with slack API, site24x7, pingdom, uptrends, loadimpact, statuscast API, jira, confluence, jenkins, bitbucket, SAFe DevOps and javascript.
               </div>
               <div class="mdl-card__menu">
               <span class="mdl-chip mdl-chip--contact">
@@ -174,7 +177,7 @@ class Projects extends Component {
               Conducted multiple levels of testing including acceptance testing, smoke testing, regression testing, exploratory testing, automation tests and UI testing.
               <br/>
               <br/>
-                Experience with appium, selenium, pivotal tracker, application testing, slack API, java, javascript.
+                Experience with appium, selenium, pivotal tracker, application testing, slack API, java, javascript, jira and github.
               </div>
               <div class="mdl-card__menu">
               <span class="mdl-chip mdl-chip--contact">
@@ -227,7 +230,7 @@ class Projects extends Component {
               Presented and organized meetings for project development
               <br/>
               <br/>
-                Experience with linux, elasticsearch, logstash, kibana, filebeat, SQL developer, IBM cognos report studio, excel, powerpoint and angular 6.
+                Experience with linux, elasticsearch, logstash, kibana, filebeat, SQL developer, IBM cognos report studio, excel, powerpoint, github and angular 6.
               </div>
               <div class="mdl-card__menu">
               <span class="mdl-chip mdl-chip--contact">
