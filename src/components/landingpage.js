@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import resumepdf from '../images/ex.pdf'
+import resumepdf from '../images/Haeim_Lee_Resume.pdf'
 
 class Landing extends Component {
   render() {

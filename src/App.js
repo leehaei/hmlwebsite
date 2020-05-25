@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Main from './components/main';
 import Projects from './components/projects'
-import resume from './images/ex.pdf';
+import resume from './images/Haeim_Lee_Resume.pdf';
 
 class App extends Component {
   render() {
